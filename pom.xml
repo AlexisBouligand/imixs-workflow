@@ -20,7 +20,7 @@
 		<!-- dependency versions -->
 		<jakarta.version>10.0.0</jakarta.version>
 		<microprofile.version>6.0</microprofile.version>
-		<microprofile-metrics.version>5.0.0</microprofile-metrics.version>
+		<microprofile-metrics.version>5.0.1</microprofile-metrics.version>
 		<lucene.version>7.7.3</lucene.version>
 
 		<!--  20.2.0  22.3.1  -->
@@ -59,8 +59,8 @@
 		<developer>
 			<id>gaheinle</id>
 			<name>Gaby Heinle</name>
-			<email />
-			<url />
+			<email/>
+			<url/>
 			<organization>Imixs Software Solutions GmbH</organization>
 			<organizationUrl>http://www.imixs.com</organizationUrl>
 			<roles>
