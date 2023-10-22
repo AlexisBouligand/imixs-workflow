@@ -24,7 +24,7 @@
 		<lucene.version>7.7.3</lucene.version>
 
 		<!--  20.2.0  22.3.1  -->
-		<graalvm.version>22.3.2</graalvm.version>
+		<graalvm.version>23.1.0</graalvm.version>
 	</properties>
 
 
@@ -59,8 +59,8 @@
 		<developer>
 			<id>gaheinle</id>
 			<name>Gaby Heinle</name>
-			<email />
-			<url />
+			<email/>
+			<url/>
 			<organization>Imixs Software Solutions GmbH</organization>
 			<organizationUrl>http://www.imixs.com</organizationUrl>
 			<roles>
